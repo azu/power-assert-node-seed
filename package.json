@@ -19,7 +19,7 @@
     "url": "https://github.com/azu/power-assert-node-seed/issues"
   },
   "devDependencies": {
-    "intelli-espower-loader": "0.0.5",
+    "intelli-espower-loader": "0.0.6",
     "power-assert": "^0.4.1"
   }
 }

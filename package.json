@@ -1,0 +1,25 @@
+{
+  "name": "power-assert-node-seed",
+  "description": "Example project of power-assert in node.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/azu/power-assert-node-seed/",
+  "repository": {
+    "url": "git://github.com/azu/power-assert-node-seed.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require intelli-espower-loader test/*.js"
+  },
+  "directories": {
+    "test": "test/"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/power-assert-node-seed/issues"
+  },
+  "devDependencies": {
+    "intelli-espower-loader": "0.0.5",
+    "power-assert": "^0.4.1"
+  }
+}

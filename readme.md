@@ -1,6 +1,6 @@
 # power-assert-node-seed
 
-Example project of [power-assert](https://github.com/twada/power-assert "power-assert") in Node.sj
+Example project of [power-assert](https://github.com/twada/power-assert "power-assert") in Node.js
 
 ## Installation
 

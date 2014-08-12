@@ -1,7 +1,7 @@
 {
   "name": "power-assert-node-seed",
   "description": "Example project of power-assert in node.js",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "homepage": "https://github.com/azu/power-assert-node-seed/",
   "repository": {
     "url": "git://github.com/azu/power-assert-node-seed.git"
@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "espower-loader": "^0.8.0",
-    "intelli-espower-loader": "^0.2.0",
+    "intelli-espower-loader": "^0.3.0",
     "power-assert": "^0.8.0"
   }
 }
